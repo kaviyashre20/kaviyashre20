@@ -92,7 +92,13 @@ I'm a Computer Science Engineering student (2023–2027) with a strong foundatio
 
 ### GitHub Activity
 
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ---
 
