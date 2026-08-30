@@ -92,18 +92,14 @@ I'm a Computer Science Engineering student (2023–2027) with a strong foundatio
 
 ### GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviyashre20&show_icons=true&hide_border=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyashre20&layout=compact&hide_border=true" height="165"/>
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyashre20&hide_border=true" />
-</p>
+![Kaviya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaviyashre20&show_icons=true&hide_border=true&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviyashre20&theme=github-compact&hide_border=true" width="95%"/>
-</p>
+### 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyashre20&layout=compact&hide_border=true)
+
 
 ---
 
