@@ -26,6 +26,8 @@ I'm a Computer Science Engineering student (2023–2027) with a strong foundatio
 🤝 Open to collaborating on software development projects
 📫 Reach me at kaviyashree0520@gmail.com
 
+---
+
 ### Technical Skills
 
 💻 Core Software Development Skills
