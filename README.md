@@ -92,14 +92,7 @@ I'm a Computer Science Engineering student (2023–2027) with a strong foundatio
 
 ### GitHub Activity
 
-### 📊 GitHub Stats
-
-![Kaviya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaviyashre20&show_icons=true&hide_border=true&theme=default)
-
-### 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyashre20&layout=compact&hide_border=true)
-
+<!--START_SECTION:waka--> <!--END_SECTION:waka-->
 
 ---
 
