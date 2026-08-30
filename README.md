@@ -19,12 +19,14 @@
 
 ### About Me
 
-I'm a Computer Science Engineering student (2023–2027) with a strong foundation in Python, C, C++, and Java, focused on Software Development and building practical, reliable solutions.
+### 👋 About Me
 
-💻 Passionate about crafting clean, efficient, and scalable software
-🌱 Continuously strengthening my technical and problem-solving skills
-🤝 Open to collaborating on software development projects
-📫 Reach me at kaviyashree0520@gmail.com
+I'm a Computer Science Engineering student (2023–2027) with a strong foundation in **Python, C, C++, and Java**, focused on **Software Development** and building practical, reliable solutions.
+
+* 💻 Passionate about crafting clean, efficient, and scalable software
+* 🌱 Continuously strengthening my technical and problem-solving skills
+* 🤝 Open to collaborating on software development projects
+* 📫 Reach me at [kaviyashree0520@gmail.com](mailto:kaviyashree0520@gmail.com)
 
 ---
 
