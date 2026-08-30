@@ -39,10 +39,6 @@ I'm a Computer Science Engineering student (2023–2027) with a strong foundatio
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-* Python
-* Java
-* C / C++
-* Object-Oriented Programming (OOP)
 
 **Problem Solving**
 
@@ -55,19 +51,13 @@ I'm a Computer Science Engineering student (2023–2027) with a strong foundatio
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-* HTML
-* CSS
-* JavaScript
-* REST APIs
 
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-* SQL
-* MySQL
-* Database Management Systems (DBMS)
 
 **Software Engineering**
 
@@ -84,12 +74,6 @@ I'm a Computer Science Engineering student (2023–2027) with a strong foundatio
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Linux
 
 ---
 
